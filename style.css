@@ -45,11 +45,10 @@ nav {
 }
 
 /* Nav items */
-  .nav-item{
-    display: flex;
-    gap:  100px;
-  }
-
+.nav-items {
+  display: flex;
+  gap: 100px;
+}
 /* Nav bar links */
   .nav-items > a {
     color: var(--nav-items-colour);
@@ -76,6 +75,9 @@ nav {
   color: var(--burger-colour);
   margin-left: auto;
 }
+
+
+
 
 /* Hero image - homepage */
   .hero-image {
