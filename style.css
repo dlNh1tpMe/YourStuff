@@ -33,6 +33,13 @@ h1 {
     width: 100%;
 }
 
+footer {
+  text-align: center;
+  padding: 3px;
+  background-color: black;
+  color: white;
+}
+
 /* Nav bar */
 nav {
     padding: 0 15px;
